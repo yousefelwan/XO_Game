@@ -1,0 +1,10 @@
+D:\vs26\xo_game\bin\Debug\xo_game.exe.config
+D:\vs26\xo_game\bin\Debug\xo_game.exe
+D:\vs26\xo_game\bin\Debug\xo_game.pdb
+D:\vs26\xo_game\obj\Debug\xo_game.csproj.AssemblyReference.cache
+D:\vs26\xo_game\obj\Debug\xo_game.Form1.resources
+D:\vs26\xo_game\obj\Debug\xo_game.Properties.Resources.resources
+D:\vs26\xo_game\obj\Debug\xo_game.csproj.GenerateResource.cache
+D:\vs26\xo_game\obj\Debug\xo_game.csproj.CoreCompileInputs.cache
+D:\vs26\xo_game\obj\Debug\xo_game.exe
+D:\vs26\xo_game\obj\Debug\xo_game.pdb
